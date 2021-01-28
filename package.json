@@ -1,0 +1,25 @@
+{
+  "name": "adefemigreat-buz-card",
+  "version": "1.0.0",
+  "description": "\"This is going to show information about me\"",
+  "main": "index.js",
+  "bin": {
+    "entry": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adefemi/buz_card.git"
+  },
+  "keywords": [
+    "buz_card"
+  ],
+  "author": "Adefemigreat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adefemi/buz_card/issues"
+  },
+  "homepage": "https://github.com/adefemi/buz_card#readme"
+}
